@@ -51,6 +51,7 @@ footer {
 
 .header a.active {
   color: #FFA41D;
+  font-weight: bolder;
 }
 
 /* HEADING */
